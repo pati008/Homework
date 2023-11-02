@@ -19,7 +19,7 @@ public class MadLib {
             int number2=10;
             int wholeNumberBetween1And4=3;
             String miltonTeacher="Mx. Bradford";
-            String miltonDean= "Mr.Ruiz";
+            String miltonDean= "Mr.Ruiz ";
             String letterGrade= "A";
             String season="spring";
             String story= "This weekend I am going camping with "
